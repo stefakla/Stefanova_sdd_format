@@ -1,0 +1,30 @@
+SDD, version, SDDv1.0;
+Software, Geant4 v10.7;
+Author, Klara Stefanova, stefakla@fjfi.cvut.cz, August 2021, master thesis Impact of environment parameters on the plasmid DNA damage induced by ionizing radiation, FNSPE, CTU;
+Simulation details, Simulation of DNA damage of the plasmid,using pdb4dna and chem3 and chem6 example, used plasmid: pUC19;
+Source, Monoenergetic proton randomly generated on the surface on the sphere with radius 300 nm exposing plasmid inside the sphere. Energy: 0.1 MeV;
+Source type, 1;
+Incident particles, 2212;
+Mean particle energy, 0.1;
+Energy distribution, M,0;
+Particle fraction, 1.0;
+Dose or fluence, 0;
+Dose rate, 0;
+Irradiation target, plasmid pUC19, supercoiled form;
+Volumes, 0,10000,10000,10000,0,0,0, 1,0.3,0.3,0.3,0,0,0;
+Chromozome sizes, 1, 0.002686;
+DNA Density, 0.023749;
+Cell Cycle Phase, 0;
+DNA Structure, 6, 1;
+In vitro / in vivo, 0;
+Proliferation status, 0, plasmid is static;
+Microenvironment, 20, 0;
+Damage definition, 1, 0, 10, -1, 8.22;
+Time, 100;
+Damage and primary count, 1312271.283, 1;
+Data entries, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+Additional information, Damage position is scored as a center of damaged base pair;
+***EndOfHeader***
+ 
+652.06, 942.2, -801.11, 653.65, 939.76, -802.87, 652.06, 942.2, -801.11; 1;
+-39.996, 665.54, -497.02, -39.996, 665.54, -497.02, -39.996, 665.54, -497.02; 1;

@@ -1,0 +1,40 @@
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Celkova depozice energie v MeV 307.237
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Celkova depozice energie v MeV 1062.14
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Celkova depozice energie v MeV 658.429
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Celkova depozice energie v MeV 1517.71
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Celkova depozice energie v MeV 232.456
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Celkova depozice energie v MeV 382.444
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Celkova depozice energie v MeV 762.276
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Celkova depozice energie v MeV 1201.2
+Posun bounding volume v nm (4.7874,0.03285,11.8104)
+Hmotnost bounding volume v mg 3.72896e-15
+Rozmery boxu v nm 4.8525 7.60525 12.6304
+Celkova depozice energie v MeV 628.247
+Celkova depozice energie v MeV 979.651

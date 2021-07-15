@@ -1,0 +1,17 @@
+/tracking/verbose 0     
+                                                                                                                                                                         
+/PDB4DNA/det/loadPDB pdb_508.pdb 
+
+/run/initialize
+
+/PDB4DNA/det/setBoundingRadius 300 nm     
+/PDB4DNA/det/buildBoundingV                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                 
+/random/setSeeds  27916   26896                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                        
+/gun/particle proton                                                                                                                                                                              
+/gun/energy 100 keV 
+/scheduler/endTime 100 ns                                                                                                                                                                              
+                                                                                                                                                                        
+/run/beamOn 1000                                                                                                                                                                                
+      
